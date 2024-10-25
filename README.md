@@ -23,8 +23,10 @@
 > 3. Compile e execute o projeto em um emulador ou dispositivo físico.
 
 # Estrutura do Projeto
->![Captura de tela 2024-10-25 153049](https://github.com/user-attachments/assets/01e30129-0ec3-4cd0-9915-fbbcb4d92164)
->![Captura de tela 2024-10-25 153108](https://github.com/user-attachments/assets/c5836fcc-67a9-4c80-9e29-f07cf9b1941d)
+>![Captura de tela 2024-10-25 153049](https://github.com/user-attachments/assets/8d75709a-1ab2-4b08-b00a-9f655010f6fd)
+>![Captura de tela 2024-10-25 153108](https://github.com/user-attachments/assets/72424737-96a6-42e3-b7cc-0ae039dab219)
+
+
 
 ##  Design e Prototipagem
 > A interface do app foi criada usando **ConstraintLayout** para manter a responsividade em diferentes tamanhos de tela. 
