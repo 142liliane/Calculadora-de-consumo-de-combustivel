@@ -26,14 +26,12 @@
 >![Captura de tela 2024-10-25 153049](https://github.com/user-attachments/assets/8d75709a-1ab2-4b08-b00a-9f655010f6fd)
 >![Captura de tela 2024-10-25 153108](https://github.com/user-attachments/assets/72424737-96a6-42e3-b7cc-0ae039dab219)
 
-
-
 ##  Design e Prototipagem
 > A interface do app foi criada usando **ConstraintLayout** para manter a responsividade em diferentes tamanhos de tela. 
 > O design é minimalista e fácil de usar, com foco na simplicidade.
 
 ## Telas do Aplicativo 1
-> **Tela Principal**
+> **Tela Principal:**
 > Na tela principal, o usuário insere: Nome do veículo, Número da placa, Distância percorrida (km), Consumo médio do veículo (km/L) e Preço por litro (R$).
 >  e o app calcula e exibe a quantidade de combustível necessária (litros) e o custo da viagem (R$) em uma tela de resultados.
 
